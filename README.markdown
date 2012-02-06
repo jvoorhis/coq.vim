@@ -13,6 +13,14 @@ Contents
 This repo contains Vincent Aravantinos' [coq syntax][2] and [coq indent][3]
 vim scripts plus filetype support in a [pathogen][4] compatible git repository.
 
+Installation
+----------
+This bundle is meant to be installed with [pathogen][4]. After following
+pathogen's installation process, run the following commands and restart vim.
+
+    cd ~/.git/bundle
+    git clone https://github.com/jvoorhis/coq.vim.git
+
 License
 -------
 The original sources were released under the public domain. `coq.vim` is
