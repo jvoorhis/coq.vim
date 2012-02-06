@@ -16,7 +16,7 @@ vim scripts plus filetype support in a [pathogen][4] compatible git repository.
 License
 -------
 The original sources were released under the public domain. `coq.vim` is
-a convenient distribution of these scripts provided by Jeremy Voorhis, and is
+a convenient distribution of these scripts, provided by Jeremy Voorhis, and is
 also provided under the public domain.
 
 [1]: http://coq.inria.fr/
