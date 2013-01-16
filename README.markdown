@@ -18,7 +18,7 @@ Installation
 This bundle is meant to be installed with [pathogen][4]. After following
 pathogen's installation process, run the following commands and restart vim.
 
-    cd ~/.git/bundle
+    cd ~/.vim/bundle
     git clone https://github.com/jvoorhis/coq.vim.git
 
 License
