@@ -22,6 +22,7 @@
 "              2007 Nov 7 - Added tactic colouration, added other keywords (thanks to Tom Harke)
 "              2007 Nov 6 - Added "Defined" keyword (thanks to Serge Leblanc)
 "              2007 Nov 5 - Initial version.
+"              2019 Apr 28 - Added "Fact" keyword
 " License:     public domain
 " TODO: mark bad constructions (eg. Section ended but not opened)
 
