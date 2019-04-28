@@ -23,8 +23,12 @@
 "              2007 Nov 6 - Added "Defined" keyword (thanks to Serge Leblanc)
 "              2007 Nov 5 - Initial version.
 "              2019 Apr 28 - Added "Fact" keyword
+"              2019 Apr 29 - Set 2 space indentation
 " License:     public domain
 " TODO: mark bad constructions (eg. Section ended but not opened)
+
+setlocal shiftwidth=2
+setlocal tabstop=2
 
 " For version 5.x: Clear all syntax items
 " For version 6.x: Quit when a syntax file was already loaded
